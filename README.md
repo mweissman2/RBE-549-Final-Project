@@ -16,5 +16,6 @@ In this project, the goal was to recreate and improvise existing and new reactio
 • Create visual effects (VFX) for each possible gesture that trigger when the respective gesture is recognized
 
 
-Effects Implementation:
-[![Watch the video](https://raw.githubusercontent.com/username/repository/branch/path/to/thumbnail.jpg)](https://github.com/mweissman2/RBE-549-Final-Project/blob/main/reactions_screen_recording.mp4)
+Effects Implementation Video:
+
+[![Watch the video](https://github.com/mweissman2/RBE-549-Final-Project/blob/main/reactions_screen_recording_thumbnail.png)](https://github.com/mweissman2/RBE-549-Final-Project/blob/main/reactions_screen_recording.mp4)
