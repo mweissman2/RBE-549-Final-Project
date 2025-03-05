@@ -10,12 +10,16 @@ pip install -q mediapipe==0.10
 
 
 In this project, the goal was to recreate and improvise existing and new reactions in Apple’s PhotoBooth app. There are eight existing reactions that are all triggered through hand gestures. Once a specific hand gesture is recognized, some type of visual effect will begin such as fireworks, rain, balloons, etc. The first part of this tasks involves implementing a Deep Learning technique for gesture recognition. The second part of this task involves creating the screen effects using different image processing techniques. These tasks can be further broken down into the following steps:
+
 • Research and select a pre-trained model for gesture recognition and fine-tune model if necessary
+
 • Run a webcam function that continuously reads frames from a webcam
+
 • Pass each frame through the gesture recognition model and return the highest probability gesture
+
 • Create visual effects (VFX) for each possible gesture that trigger when the respective gesture is recognized
 
 
-Effects Implementation Video:
+## Effects Implementation Video:
 
 [![Watch the video](https://github.com/mweissman2/RBE-549-Final-Project/blob/main/reactions_screen_recording_thumbnail.png)](https://github.com/mweissman2/RBE-549-Final-Project/blob/main/reactions_screen_recording.mp4)
